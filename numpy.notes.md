@@ -17,7 +17,7 @@ import numpy as np
 zeros_array = np.zeros((2, 3))
 print(zeros_array)
 ```
-### `np.ones`
+#### `np.ones`
 ```python
 import numpy as np
 
@@ -25,7 +25,7 @@ import numpy as np
 ones_array = np.ones((3, 2))
 print(ones_array)
 ```
-### `np.eye`
+#### `np.eye`
 ```python
 import numpy as np
 
