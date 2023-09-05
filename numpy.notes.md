@@ -33,3 +33,25 @@ import numpy as np
 identity_matrix = np.eye(4)
 print(identity_matrix)
 ```
+##### `linspace`
+```python
+import numpy as np
+
+# Create an array of 10 evenly spaced values between 0 and 1
+linspace_array = np.linspace(0, 1, 10)
+print(linspace_array)
+```
+###### `Matoplotlib`
+####### `plt.imshow`
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create a simple 2D array
+data = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+
+# Display the array as an image
+plt.imshow(data, cmap='viridis')
+plt.colorbar()
+plt.show()
+```
