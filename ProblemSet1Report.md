@@ -1,3 +1,5 @@
+[Colab link](https://colab.research.google.com/drive/1_VRF56b3HtuucVI21fEjSH68zIgxe4zf?usp=sharing)
+
 # Report: MNIST Linear Model Training
 
 This report summarizes the code for training a linear model on the MNIST dataset. The code is written in Python and utilizes various libraries for data manipulation and model training.
