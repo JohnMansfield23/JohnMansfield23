@@ -100,3 +100,7 @@ for i in range(100000):
         m_best = m
         acc_best = acc
 ```
+### The Final Results
+
+After 100,000 iterations of Random Walk Optimization, the linear model achieved its highest accuracy at 0.8781 (87.81%) on the training dataset. This accuracy was obtained when the weight matrix `m_best` was adjusted to maximize the model's performance.
+
