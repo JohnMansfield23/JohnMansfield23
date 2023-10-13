@@ -1,4 +1,4 @@
-(Colab File Link)[https://colab.research.google.com/drive/1FTgzsr0Ioe-LRQtVdu5iYNicL2sCLNgw?usp=sharing]
+[Colab File Link](https://colab.research.google.com/drive/1FTgzsr0Ioe-LRQtVdu5iYNicL2sCLNgw?usp=sharing)
 
 # Image Processing Report
 
