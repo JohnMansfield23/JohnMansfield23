@@ -1,0 +1,11 @@
+# Image Processing Report
+
+In this report, we demonstrate the steps of processing an image which includes its loading, resizing, grayscale conversion, and application of convolution filters to extract features. The image used for this demonstration is the logo of Florida Atlantic Owls.
+
+## Step 1: Loading the Image
+
+```python
+URL = 'https://1000logos.net/wp-content/uploads/2019/12/Florida-Atlantic-Owls-Logo-1994.png'
+response = requests.get(URL, stream=True)
+img = Image.open(response.raw).convert("RGB")
+```
