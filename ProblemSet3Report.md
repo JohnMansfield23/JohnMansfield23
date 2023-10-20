@@ -1,5 +1,5 @@
 [Colab note book with in class provided code and my code at the end.](https://colab.research.google.com/drive/1gKXzHiPCOHs9aHgIIOVd4Y2mXAA1ztnO?usp=sharing) 
-
+[Accuracy chart for First run](https://api.wandb.ai/links/mansfieldj2019/3dqg6x8f)
 # Flower Classification: Model Training & Evaluation
 ## Overview
 The provided code aims to classify flower images using a deep learning model. It utilizes the PyTorch library for neural network training and the wandb library to monitor and log the model's performance in real-time.
