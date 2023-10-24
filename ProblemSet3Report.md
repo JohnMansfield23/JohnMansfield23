@@ -84,9 +84,10 @@ model.classifier = classifier
 model.to(device)
 ```
 ###### Loss and Optimizer
+```python
 criterion = nn.NLLLoss()
 optimizer = optim.Adam(model.classifier.parameters(), lr=0.003)
-
+```
 ##### Training & Evaluation Loop
 ```python
 epochs = 3
